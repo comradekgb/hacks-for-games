@@ -1,4 +1,3 @@
-# minecraft-hack-pack
-just stuff for minecraft modding/hacking
-btw first go to https://fabricmc.net/use/installer/
-and this is for 1.18.2
+hey, I did not make most of these so yeah...
+- this is just something i made so you download the right things!
+- 
