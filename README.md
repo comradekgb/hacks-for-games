@@ -1,3 +1,3 @@
 hey, I did not make most of these so yeah...
 - this is just something i made so you download the right things!
-- 
+- for mc - https://fabricmc.net/use/installer/
